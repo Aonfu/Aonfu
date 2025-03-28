@@ -1,6 +1,8 @@
-## Hi, I am Noa👋
+# Hi, I am Noa👋
 second year student at UTBM
+
 Currently in exchange at Shanghai University 🇨🇳 
+
 <hr>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aonfu&theme=gruvbox&layout=compact"/>
 <!--
