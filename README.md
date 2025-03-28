@@ -1,4 +1,4 @@
-# Hi, I am Noa👋
+# Hi, I'm Noa👋
 second year student at UTBM
 
 Currently in exchange at Shanghai University 🇨🇳 
