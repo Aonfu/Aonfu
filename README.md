@@ -4,8 +4,7 @@ second year student at UTBM
 Currently in exchange at Shanghai University 🇨🇳 
 
 <hr>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aonfu&theme=gruvbox&layout=compact"/>
-<a href="https://readme-jokes.vercel.app"><img align="center" src="https://readme-jokes.vercel.app/api" alt="README Jokes"></a>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aonfu&theme=gruvbox&layout=compact"/> <a href="https://readme-jokes.vercel.app"><img align="center" src="https://readme-jokes.vercel.app/api" alt="README Jokes"></a>
 <!--
 **Aonfu/Aonfu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
